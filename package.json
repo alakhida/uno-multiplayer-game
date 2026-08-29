@@ -1,0 +1,30 @@
+{
+  "name": "uno-multiplayer-game",
+  "version": "1.0.0",
+  "description": "2-4 player Uno card game clone for mobile with Firebase real-time multiplayer",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.73.0",
+    "expo": "^50.0.0",
+    "firebase": "^10.7.0",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "react-native-screens": "^3.27.0",
+    "react-native-safe-area-context": "^4.8.2",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.42",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.3.3"
+  },
+  "private": true
+}
