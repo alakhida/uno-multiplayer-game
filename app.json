@@ -1,1 +1,17 @@
-{\n  "expo": {\n    "name": "Uno Multiplayer",\n    "slug": "uno-multiplayer-game",\n    "version": "1.0.0",\n    "assetBundlePatterns": ["**/*"],\n    "ios": {\n      "supportsTabletMode": true\n    },\n    "android": {\n      "adaptiveIcon": {\n        "foregroundImage": "./assets/adaptive-icon.png",\n        "backgroundColor": "#ffffff"\n      }\n    }\n  }\n}\n
+{
+  "expo": {
+    "name": "Uno Multiplayer",
+    "slug": "uno-multiplayer-game",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
